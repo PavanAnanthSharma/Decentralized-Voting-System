@@ -2,7 +2,7 @@
 # Decentralized-Voting-System powred by Ethereum
 Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
 Here we will build  a decentralised a voting system where one account can vote only once and then the results will be stored on blochchain and makes it imtamperable.
-```$-- @dev  By: Pavan Ananth Sharma```
+```$$-- @dev  By: Pavan Ananth Sharma```
 
 Follow the steps below to download, install, and run this project.
 
